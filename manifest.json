@@ -9,7 +9,6 @@
   "action": {
     "default_icon": "images/logo48.png",
     "default_title": "Dev Search Bookmarked Page Contents",
-    "default_popup": "popup.html"
   },
   "icons": {
     "16": "images/logo16.png",
